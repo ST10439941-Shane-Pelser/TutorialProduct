@@ -1,0 +1,7 @@
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\TutorialApplication.exe
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\TutorialApplication.dll
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\TutorialApplication.deps.json
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\TutorialApplication.runtimeconfig.json
+C:\Users\shane\OneDrive\Documents\Varsity\Year_2\CLDV\ICE Task\TutorialApplication\obj\Release\net8.0\PubTmp\Out\TutorialApplication.pdb
